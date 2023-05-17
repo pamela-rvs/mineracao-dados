@@ -8,8 +8,6 @@
 
 :small_blue_diamond: [Tópicos](#topicos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
 
 ## Descrição do projeto 
 
@@ -26,11 +24,3 @@
 :heavy_check_mark: Projeto - Artigo
 
 ...
-
-## Como rodar a aplicação :arrow_forward:
-
-Para rodar esse projeto na sua máquina, por favor digite: 
-
-```
-nope app.js
-```
